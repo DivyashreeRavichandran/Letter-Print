@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Letter-Print/static/css/main.6b6f7f33.css",
+    "main.js": "/Letter-Print/static/js/main.60a5328a.js",
+    "static/js/453.b194b481.chunk.js": "/Letter-Print/static/js/453.b194b481.chunk.js",
+    "index.html": "/Letter-Print/index.html",
+    "main.6b6f7f33.css.map": "/Letter-Print/static/css/main.6b6f7f33.css.map",
+    "main.60a5328a.js.map": "/Letter-Print/static/js/main.60a5328a.js.map",
+    "453.b194b481.chunk.js.map": "/Letter-Print/static/js/453.b194b481.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b6f7f33.css",
+    "static/js/main.60a5328a.js"
+  ]
+}
