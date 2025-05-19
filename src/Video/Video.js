@@ -1,6 +1,6 @@
 
 import React from 'react'
-import Navbar from '../Navbar/Navbar'
+import Navbar from '../navbar/Navbar';
 import './Video.css'
 import 'bootstrap/dist/css/bootstrap.min.css'
 
